@@ -1,2 +1,2 @@
 # Elvis-in-the-web
-Locating ELVIS in the cosmci web
+Finding ELVIS in the cosmic web
