@@ -1,0 +1,94 @@
+Orion & Taurus:  Box 7
+Halo 1 mass:  2.80201e+12 solar masses
+Halo 2 mass:  1.27353e+12 solar masses
+Halo 1 position (Mpc h^-1): (0.89725719, 2.97442463, 16.19579308)
+Halo 2 position (Mpc h^-1): (0.47947528, 3.04469942, 15.84253882)
+
+
+Scylla & Charybdis:  Box 3
+Halo 1 position (Mpc h^-1): (45.51953935, 0.30373721, 13.33393239)
+Halo 2 position (Mpc h^-1): (45.96901145, 0.64366222, 13.36883701)
+Halo 1 mass:  2.29365e+12 solar masses
+Halo 2 mass:  1.6169e+12 solar masses
+
+Siegfried & Roy:  Box 7
+Halo 1 position (Mpc h^-1): (48.07860174, 45.2744256, 36.60406176)
+Halo 2 position (Mpc h^-1): (47.81283806, 45.21336, 37.06783754)
+Halo 1 mass:  2.57127e+12 solar masses
+Halo 2 mass:  2.19866e+12 solar masses
+
+
+Hall & Oates:  Box 17
+Halo 1 position (Mpc h^-1): (12.72021149, 38.11412488, 33.40575093)
+Halo 2 position (Mpc h^-1): (12.66704246, 38.06224675, 32.70185855)
+Halo 1 mass:  1.16266e+12 solar masses
+Halo 2 mass:  1.49701e+12 solar masses
+
+
+
+Zeus & Hera:  Box 15
+Halo 1 mass:  2.65968e+12 solar masses
+Halo 2 mass:  1.22899e+12 solar masses
+Halo 1 position (Mpc h^-1): (36.74048076, 21.92974854, 35.39839774)
+Halo 2 position (Mpc h^-1): (36.68258445, 22.3630172, 35.2371776)
+
+
+
+Lincoln & Douglas:  Box 14
+Halo 1 position (Mpc h^-1): (36.66780555, 11.79884133, 46.60868861)
+Halo 2 position (Mpc h^-1): (37.18062067, 11.55826889, 46.44440753)
+Halo 1 mass:  2.54435e+12 solar masses
+Halo 2 mass:  1.31982e+12 solar masses
+
+
+Sonny & Cher:  Box 8
+Halo 1 position (Mpc h^-1): (37.23024014, 28.56730517, 12.78803471)
+Halo 2 position (Mpc h^-1): (36.96457998, 29.04123268, 13.18185235)
+Halo 1 mass:  1.92821e+12 solar masses
+Halo 2 mass:  1.74617e+12 solar masses
+
+
+Romulus & Remus:  Box 1
+Halo 1 position (Mpc h^-1): (42.15016093, 16.30511996, 12.93411058)
+Halo 2 position (Mpc h^-1): (42.62570041, 16.05474589, 12.62114397)
+Halo 1 mass:  1.898e+12 solar masses
+Halo 2 mass:  1.27905e+12 solar masses
+
+
+Serena & Venus:  Box 20
+Halo 1 position (Mpc h^-1): (16.51842822, 3.37176111, 12.86955033)
+Halo 2 position (Mpc h^-1): (16.64522874, 3.30865104, 13.43350297)
+Halo 1 mass:  2.71777e+12 solar masses
+Halo 2 mass:  1.47358e+12 solar masses
+
+
+Hamilton & Burr:  Box 5
+Halo 1 position (Mpc h^-1): (28.5222958, 27.56337921, 9.21702195)
+Halo 2 position (Mpc h^-1): (28.20145219, 27.86754041, 8.88074972)
+Halo 1 mass:  1.79197e+12 solar masses
+Halo 2 mass:  1.5739e+12 solar masses
+
+
+Thelma & Louise:  Box 14
+Halo 1 position (Mpc h^-1): (28.72793679, 26.65493695, 0.40647025)
+Halo 2 position (Mpc h^-1): (28.15658334, 26.75511473, 0.59493182)
+Halo 1 mass:  1.39554e+12 solar masses
+Halo 2 mass:  1.01489e+12 solar masses
+
+
+Kek & Kauket:  Box 4
+Halo 1 position (Mpc h^-1): (40.99338975, 35.00290943, 3.98255601)
+Halo 2 position (Mpc h^-1): (41.13381675, 34.54925481, 4.50091287)
+Halo 1 mass:  1.1095e+12 solar masses
+Halo 2 mass:  2.28465e+12 solar masses
+
+
+
+
+
+
+
+
+
+
+
