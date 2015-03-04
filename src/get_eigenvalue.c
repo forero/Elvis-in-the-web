@@ -3,35 +3,23 @@
 #define USAGE "./get_eigenvalue.x filename pos_x pos_y pos_z"
 /*
    USAGE: ./get_eigenvalue.c filename
-   AUTHOR: Jaime Forero-Romero j.e.forero.romero@gmail.com
+   AUTHOR: Jaime Forero-Romero 
    DESCRIPTION:
    Gets the corresponding eigenvalue at the positions pos_x, pos_y, poz_z
    Loads a 3Dimensional grid into a 3D array.
 
    NOTES:
    n_x, n_y, n_z is the grid size
-   x_0, y_0, z_0 is the posiion of the cell for the grid(i,j,k) element in kpc/h
-   dx,dy,z is the grid size in kpc/h
-   
+   x_0, y_0, z_0 is the posiion of the cell for the grid(i,j,k) element in Mpc/h
+   dx,dy,z is the grid size in Mpc/h
    grid[n] runs over x,y,z in space, following fortran array conventions
    for memory handling
    
    i.e. a 3D point grid(i,j,k) corresponds to  grid[i + N_X * (j + N_Y
    * k)] where N_X is the grid dimension size in x and N_Y is the grid
    dimension size in y (i,j,k start at 0).  
-   
 */
-#define FLOAT float
-int main(int argc, char **argv){
-  FILE *in;
-  FLOAT *grid;
-  int dumb;
-  char line[30];
-  long long i;
-  long long n_total;
-  int n_x, n_y, n_z;
-  int n_nodes;
-  float dx, dy, dz, x_0, y_0, z_0;
+# dz, x_0, y_0, z_0;
   FLOAT max_val, min_val;
   float pos_x, pos_y, pos_z;
   int id_i, id_j, id_k;
