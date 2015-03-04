@@ -1,4 +1,4 @@
-Pair, Box,  X_H1 Mpc/h, Y_H1 Mpc/h, Z_H1 Mpc/h, X_H2 Mpc/h, Y_H2 Mpc/h, Z_H2 Mpc/h, Mass_H1 Msun/h, Mass_H2 Msun/h, 
+Pair, Box,  X_H1 Mpc/h, Y_H1 Mpc/h, Z_H1 Mpc/h, X_H2 Mpc/h, Y_H2 Mpc/h, Z_H2 Mpc/h, Mass_H1 Msun/h, Mass_H2 Msun/h
 Orion & Taurus, 7, 0.89725719, 2.97442463, 16.19579308, 0.47947528, 3.04469942, 15.84253882, 2.80201e+12, 1.27353e+12
 Scylla & Charybdis, 3, 45.51953935, 0.30373721, 13.33393239, 45.96901145, 0.64366222, 13.36883701, 2.29365e+12, 1.6169e+12 
 Siegfried & Roy, 7, 48.07860174, 45.2744256, 36.60406176, 47.81283806, 45.21336, 37.06783754, 2.57127e+12, 2.19866e+12 
