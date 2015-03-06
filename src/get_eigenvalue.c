@@ -19,7 +19,18 @@
    * k)] where N_X is the grid dimension size in x and N_Y is the grid
    dimension size in y (i,j,k start at 0).  
 */
-# dz, x_0, y_0, z_0;
+
+#define FLOAT float
+int main(int argc, char **argv){
+  FILE *in;
+  FLOAT *grid;
+  int dumb;
+  char line[30];
+  long long i;
+  long long n_total;
+  int n_x, n_y, n_z;
+  int n_nodes;
+  float dx, dy, dz, x_0, y_0, z_0;
   FLOAT max_val, min_val;
   float pos_x, pos_y, pos_z;
   int id_i, id_j, id_k;
